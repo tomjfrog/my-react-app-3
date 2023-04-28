@@ -1,0 +1,6 @@
+projectPrefix: myreactapp3
+myRepo:
+  gitProvider: Github_tomjfrog
+  artifactory: jfrog_cloud
+  path: tomjfrog/my-react-app-3
+  virtualRepo: myreactapp3-npm-dev-virtual
